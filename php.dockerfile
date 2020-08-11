@@ -18,7 +18,7 @@ RUN apt-get update && \
  #   && docker-php-ext-install mysqli \
  #   && docker-php-ext-install zip \
 
-#RUN apt-get install -y libzip-dev
+RUN apt-get install -y libzip-dev
 RUN docker-php-ext-install zip
 
 #RUN docker-php-ext-configure gd --with-gd --with-webp-dir --with-jpeg-dir \
