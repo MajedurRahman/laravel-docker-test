@@ -1,6 +1,19 @@
-## This is where your Laravel app goes
+## Buzzy Media Script
 
-To get started, delete this file and then do one of the following:
+Breaking News, Viral Lists, Awesome Polls and Popular Videos. 
 
-- Clone your project or copy all of the files directly into this `src` directory.
-- Spin up the Docker network by following the instructions on the main [README.md](../README.md), and install a brand new Laravel project by running `docker-compose run --rm composer create-project laravel/laravel .` in your terminal.
+Buzzy brings to all these contents into one system. Create beautiful viral websites like BuzzFeed with Buzzy! 
+You have advanced tools to do that. Great Post Editor, 
+Powerfull Admin Panel and Impressive Design will you think big!
+
+Get Started to make great community with Buzzy. TODAY!
+
+## Official Documentation
+
+Documentation for the Buzzy can be found on the [Buzzy website](http://buzzy.akbilisim.com/admin/docs).
+
+### License
+
+Laravel Framework is GNU General Public License [GNU license](http://www.gnu.org/licenses/gpl-3.0.en.html)
+
+Buzzy Copyright © 2019 akbilisim. All rights reserved. [Website](http://www.akbilisim.com/).
